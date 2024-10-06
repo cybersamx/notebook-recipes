@@ -1,2 +1,4 @@
-# notebook-recipes
-Playground for Jupyter Notebooks.
+# Notebook Recipes
+
+Playground and recipes for Jupyter Notebooks.
+
