@@ -1,0 +1,3 @@
+driver: bigquery
+host: abc.cloud.google.com
+database: inventory

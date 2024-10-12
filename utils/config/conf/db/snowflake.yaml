@@ -1,0 +1,3 @@
+driver: snowflake
+host: xyz.snowflakecomputing.com
+authenticator: snowflake
