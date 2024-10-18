@@ -1,3 +1,5 @@
 driver: bigquery
 host: abc.cloud.google.com
 database: inventory
+user: bigquery-user
+password: ${oc.env:DB_PASSWORD}

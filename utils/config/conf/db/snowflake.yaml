@@ -1,3 +1,5 @@
 driver: snowflake
 host: xyz.snowflakecomputing.com
 authenticator: snowflake
+user: snowflake-user
+password: ${oc.env:DB_PASSWORD}
